@@ -10,9 +10,10 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-!Desktiop View[Desktop View](./view/desktop.png)
-!Mobile View[Mobile View](./view/mobile.png)
+#### Desktiop View
+![Desktop View](./view/desktop.png)
+#### Mobile View
+![Mobile View](./view/mobile.png)
 
 ### Links
 
