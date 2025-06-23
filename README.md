@@ -11,12 +11,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./view/desktop.png)
-![Mobile View](./view/mobile.png)
+!Desktiop View[Desktop View](./view/desktop.png)
+!Mobile View[Mobile View](./view/mobile.png)
 
 ### Links
 
-- Live Site URL: [FB Clone](https://css-fb-login-page-clone.vercel.app/)
+- Live Site URL: [Facebook Log In](https://facebook.srsp.vercel.app/)
 
 ## My process
 
